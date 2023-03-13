@@ -1,3 +1,7 @@
 Ejercicio para Argentina Programa
 Se agrego una segunda linea
+<<<<<<< HEAD
 Se agrega una cuarta linea
+=======
+Se agrega una tercera Linea
+>>>>>>> e23f96041501866a74180eba6ec7e4c2dc6d7307
